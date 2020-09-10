@@ -1,0 +1,19 @@
+{
+  "name": "mypkg01",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvesram/katacoda-scenarios.git"
+  },
+  "author": "ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvesram/katacoda-scenarios/issues"
+  },
+  "homepage": "https://github.com/nvesram/katacoda-scenarios#readme"
+}
